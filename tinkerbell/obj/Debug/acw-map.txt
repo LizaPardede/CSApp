@@ -1,0 +1,4 @@
+tinkerbell.MainActivity, tinkerbell;md5668bab808cea906d9c1d2aa3d550a339.MainActivity
+tinkerbell.MainActivity, tinkerbell, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5668bab808cea906d9c1d2aa3d550a339.MainActivity
+tinkerbell.MainActivity;md5668bab808cea906d9c1d2aa3d550a339.MainActivity
+tinkerbell.MainActivity;md5668bab808cea906d9c1d2aa3d550a339.MainActivity
