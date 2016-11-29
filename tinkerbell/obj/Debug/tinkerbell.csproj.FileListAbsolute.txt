@@ -48,4 +48,54 @@ c:\users\developer1\documents\visual studio 2015\Projects\tinkerbell\tinkerbell\
 c:\users\developer1\documents\visual studio 2015\Projects\tinkerbell\tinkerbell\obj\Debug\android\assets\tinkerbell.dll.mdb
 c:\users\developer1\documents\visual studio 2015\Projects\tinkerbell\tinkerbell\obj\Debug\tinkerbell.csprojResolveAssemblyReference.cache
 c:\users\developer1\documents\visual studio 2015\Projects\tinkerbell\tinkerbell\obj\Debug\tinkerbell.dll.mdb
-c:\users\developer1\documents\visual studio 2015\Projects\tinkerbell\tinkerbell\bin\Debug\tinkerbell.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\tinkerbell.dll
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\tinkerbell.pdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\tinkerbell.tinkerbell.apk
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\tinkerbell.tinkerbell-Signed.apk
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\tinkerbell.csprojResolveAssemblyReference.cache
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\tinkerbell.dll
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\tinkerbell.pdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\bin\tinkerbell.tinkerbell.apk
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\res\layout\main.xml
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\res\values\strings.xml
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\res\drawable\icon.png
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\R.cs.flag
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\uploadflags.txt
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\Java.Interop.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\Mono.Android.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\mscorlib.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.Core.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.Data.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.EnterpriseServices.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.Numerics.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.Transactions.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.Web.Services.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.Xml.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\tinkerbell.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.EnterpriseServices.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.Web.Services.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\android\assets\tinkerbell.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\obj\Debug\tinkerbell.dll.mdb
+C:\Users\DEVELOPER1\Documents\CSApp\tinkerbell\bin\Debug\tinkerbell.dll.mdb
